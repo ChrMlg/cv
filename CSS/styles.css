@@ -1,3 +1,7 @@
+body{
+  background-color: #eaf6f6;
+}
+
 hr{
     border-style:none ;
     background-color:none;
@@ -5,4 +9,12 @@ hr{
     height: 0px;
     width: 3%;
   }
+
+h1{
+  color: #66BFBF
+}
+
+h3{
+  color: #66BFBF
+}
 
